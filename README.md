@@ -27,4 +27,4 @@ This dashboard helps businesses understand sales performance, identify trends, m
 
  👩‍💻 Developed By
 Gowsalya C
-MCA Student | Aspiring Data Analyst
+spiring Data Analyst
