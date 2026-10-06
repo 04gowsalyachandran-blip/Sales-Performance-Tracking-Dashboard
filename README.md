@@ -1,6 +1,6 @@
-# 📊 Sales Performance Tracking Dashboard
+📊 Sales Performance Tracking Dashboard
 
-## 📌 Project Overview
+📌 Project Overview
 
 The **Sales Performance Tracking Dashboard** is a Business Intelligence project developed using **Microsoft Power BI** to analyze and monitor sales performance through interactive data visualizations.
 
@@ -9,7 +9,7 @@ The dashboard provides insights into **total sales, units sold, operating margin
 The main objective of this project is to transform sales data into meaningful business insights that can support **data-driven decision-making and sales performance analysis**.
 
 
-## 🎯 Objectives
+🎯 Objectives
 
 - Track overall sales performance.
 - Analyze monthly and yearly sales trends.
@@ -22,7 +22,7 @@ The main objective of this project is to transform sales data into meaningful bu
 - Provide meaningful insights for business decision-making.
 
 
-## 🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 
 - **Microsoft Power BI**
 - **Power Query**
@@ -33,7 +33,7 @@ The main objective of this project is to transform sales data into meaningful bu
 - **Data Modeling**
 
 
-## 📂 Project Workflow
+📂 Project Workflow
 
 Sales Data
     ↓
@@ -54,7 +54,7 @@ Power BI Dashboard
 Business Insights
 
 
-##🧹 Data Preparation
+🧹 Data Preparation
 
 The data preparation process includes:
 
@@ -70,11 +70,11 @@ The data preparation process includes:
 Power Query is used for data cleaning and transformation before creating the dashboard.
 
 
-## 🗂️ Data Model
+ 🗂️ Data Model
 
 The project uses a structured data model consisting of sales transaction data and supporting dimension tables.
 
-### Fact Table
+Fact Table
 
 The sales transaction table contains important fields such as:
 
@@ -89,7 +89,7 @@ The sales transaction table contains important fields such as:
 - Units Sold
 - Operating Margin
 
-### Dimension Tables
+Dimension Tables
 
 The project includes supporting dimensions such as:
 
@@ -103,9 +103,9 @@ The project includes supporting dimensions such as:
 A **Star Schema** approach is used to organize the data and support efficient reporting.
 
 
-## 📊 Dashboard Features
+📊 Dashboard Features
 
-### 1. Sales Overview
+1. Sales Overview
 
 The dashboard provides an overall view of sales performance through key metrics such as:
 
@@ -114,7 +114,7 @@ The dashboard provides an overall view of sales performance through key metrics 
 - Operating Margin
 - Total Profit
 
-### 2. Sales by Region
+2. Sales by Region
 
 Regional analysis helps identify:
 
@@ -123,7 +123,7 @@ Regional analysis helps identify:
 - Regional sales contribution
 - Geographic sales patterns
 
-### 3. Product Analysis
+3. Product Analysis
 
 The dashboard helps analyze:
 
@@ -132,11 +132,11 @@ The dashboard helps analyze:
 - Best-performing products
 - Sales contribution by product
 
-### 4. Retailer Analysis
+4. Retailer Analysis
 
 Sales performance can be analyzed across different retailers to identify major contributors to overall sales.
 
-### 5. Sales Method Analysis
+5. Sales Method Analysis
 
 The dashboard provides analysis of sales methods such as:
 
@@ -144,7 +144,7 @@ The dashboard provides analysis of sales methods such as:
 - Outlet
 - In-store
 
-### 6. Time-Based Analysis
+6. Time-Based Analysis
 
 Sales performance can be analyzed by:
 
@@ -156,7 +156,7 @@ Sales performance can be analyzed by:
 This helps identify sales trends and seasonal patterns.
 
 
-## 🧮 DAX Calculations
+🧮 DAX Calculations
 
 DAX measures are used to calculate important business metrics.
 
@@ -180,7 +180,7 @@ AVERAGE('Data Sales Adidas'[Operating Margin])
 DAX functions such as `SUM()`, `AVERAGE()`, `CALCULATE()`, `RANKX()`, `FILTER()`, and `DIVIDE()` can be used to create dynamic calculations and performance metrics.
 
 
-## 📈 Visualizations
+📈 Visualizations
 
 The dashboard uses different Power BI visualizations including:
 
@@ -197,7 +197,7 @@ The dashboard uses different Power BI visualizations including:
 These visualizations make it easier to understand sales performance and identify important trends.
 
 
-## 💡 Key Insights
+💡 Key Insights
 
 The dashboard helps users:
 
@@ -212,14 +212,14 @@ The dashboard helps users:
 - Support data-driven business decisions.
 
 
-## 🚀 Project Outcome
+🚀 Project Outcome
 
 The final Power BI dashboard provides an interactive and user-friendly environment for analyzing sales performance.
 
 It transforms raw sales data into meaningful visual insights and helps users understand **revenue trends, regional performance, product performance, retailer contribution, sales methods, and key performance indicators**.
 
 
-## 🔮 Future Enhancements
+🔮 Future Enhancements
 
 Future improvements can include:
 
@@ -233,7 +233,7 @@ Future improvements can include:
 - Automated reporting
 
 
-## 👩‍💻 Developed By
+👩‍💻 Developed By
 
 **Gowsalya C**
 
@@ -243,6 +243,6 @@ Future improvements can include:
 
 ---
 
-## ⭐ Skills Demonstrated
+⭐ Skills Demonstrated
 
 `Power BI` `Power Query` `DAX` `Data Visualization` `Data Analysis` `Data Modeling` `Excel` `SQL` `Business Intelligence`
